@@ -1,0 +1,17 @@
+X:\Visual Studio 2017\Proyects\HugoPuebas\cTransaccion\bin\Debug\cTransaccion.dll
+X:\Visual Studio 2017\Proyects\HugoPuebas\cTransaccion\bin\Debug\cTransaccion.pdb
+X:\Visual Studio 2017\Proyects\HugoPuebas\cTransaccion\bin\Debug\cTransaccion.xml
+X:\Visual Studio 2017\Proyects\HugoPuebas\cTransaccion\obj\Debug\cTransaccion.Resources.resources
+X:\Visual Studio 2017\Proyects\HugoPuebas\cTransaccion\obj\Debug\cTransaccion.vbproj.GenerateResource.cache
+X:\Visual Studio 2017\Proyects\HugoPuebas\cTransaccion\obj\Debug\cTransaccion.vbproj.CoreCompileInputs.cache
+X:\Visual Studio 2017\Proyects\HugoPuebas\cTransaccion\obj\Debug\cTransaccion.dll
+X:\Visual Studio 2017\Proyects\HugoPuebas\cTransaccion\obj\Debug\cTransaccion.xml
+X:\Visual Studio 2017\Proyects\HugoPuebas\cTransaccion\obj\Debug\cTransaccion.pdb
+X:\Visual Studio 2017\Proyects\HugoPuebas\cTransaccion\obj\Debug\cTransaccion.vbprojAssemblyReference.cache
+X:\Visual Studio 2017\Proyects\HugoPuebas\cTransaccion\bin\Debug\cConexionBD.dll
+X:\Visual Studio 2017\Proyects\HugoPuebas\cTransaccion\bin\Debug\cEnviaCorreo.dll
+X:\Visual Studio 2017\Proyects\HugoPuebas\cTransaccion\bin\Debug\cConexionBD.pdb
+X:\Visual Studio 2017\Proyects\HugoPuebas\cTransaccion\bin\Debug\cConexionBD.xml
+X:\Visual Studio 2017\Proyects\HugoPuebas\cTransaccion\bin\Debug\cEnviaCorreo.pdb
+X:\Visual Studio 2017\Proyects\HugoPuebas\cTransaccion\bin\Debug\cEnviaCorreo.xml
+X:\Visual Studio 2017\Proyects\HugoPuebas\cTransaccion\obj\Debug\cTransaccion.vbproj.CopyComplete
