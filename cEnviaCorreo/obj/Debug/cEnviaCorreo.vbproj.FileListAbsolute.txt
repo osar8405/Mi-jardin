@@ -1,0 +1,9 @@
+X:\Visual Studio 2017\Proyects\HugoPuebas\cEnviaCorreo\bin\Debug\cEnviaCorreo.dll
+X:\Visual Studio 2017\Proyects\HugoPuebas\cEnviaCorreo\bin\Debug\cEnviaCorreo.pdb
+X:\Visual Studio 2017\Proyects\HugoPuebas\cEnviaCorreo\bin\Debug\cEnviaCorreo.xml
+X:\Visual Studio 2017\Proyects\HugoPuebas\cEnviaCorreo\obj\Debug\cEnviaCorreo.Resources.resources
+X:\Visual Studio 2017\Proyects\HugoPuebas\cEnviaCorreo\obj\Debug\cEnviaCorreo.vbproj.GenerateResource.cache
+X:\Visual Studio 2017\Proyects\HugoPuebas\cEnviaCorreo\obj\Debug\cEnviaCorreo.vbproj.CoreCompileInputs.cache
+X:\Visual Studio 2017\Proyects\HugoPuebas\cEnviaCorreo\obj\Debug\cEnviaCorreo.dll
+X:\Visual Studio 2017\Proyects\HugoPuebas\cEnviaCorreo\obj\Debug\cEnviaCorreo.xml
+X:\Visual Studio 2017\Proyects\HugoPuebas\cEnviaCorreo\obj\Debug\cEnviaCorreo.pdb

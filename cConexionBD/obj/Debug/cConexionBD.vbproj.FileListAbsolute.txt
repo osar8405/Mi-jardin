@@ -1,0 +1,10 @@
+X:\Visual Studio 2017\Proyects\HugoPuebas\cConexionBD\bin\Debug\cConexionBD.dll
+X:\Visual Studio 2017\Proyects\HugoPuebas\cConexionBD\bin\Debug\cConexionBD.pdb
+X:\Visual Studio 2017\Proyects\HugoPuebas\cConexionBD\bin\Debug\cConexionBD.xml
+X:\Visual Studio 2017\Proyects\HugoPuebas\cConexionBD\obj\Debug\cConexionBD.vbprojAssemblyReference.cache
+X:\Visual Studio 2017\Proyects\HugoPuebas\cConexionBD\obj\Debug\cConexionBD.Resources.resources
+X:\Visual Studio 2017\Proyects\HugoPuebas\cConexionBD\obj\Debug\cConexionBD.vbproj.GenerateResource.cache
+X:\Visual Studio 2017\Proyects\HugoPuebas\cConexionBD\obj\Debug\cConexionBD.vbproj.CoreCompileInputs.cache
+X:\Visual Studio 2017\Proyects\HugoPuebas\cConexionBD\obj\Debug\cConexionBD.dll
+X:\Visual Studio 2017\Proyects\HugoPuebas\cConexionBD\obj\Debug\cConexionBD.xml
+X:\Visual Studio 2017\Proyects\HugoPuebas\cConexionBD\obj\Debug\cConexionBD.pdb

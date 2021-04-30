@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\inetpub\wwwroot\wcfUsuario</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/cCa.dll">
+      <publishTime>03/01/2021 15:26:35</publishTime>
+    </File>
+    <File Include="bin/cCa.pdb">
+      <publishTime>03/01/2021 15:26:35</publishTime>
+    </File>
+    <File Include="bin/cConexionBD.dll">
+      <publishTime>03/04/2021 10:46:08</publishTime>
+    </File>
+    <File Include="bin/cConexionBD.pdb">
+      <publishTime>03/04/2021 10:46:08</publishTime>
+    </File>
+    <File Include="bin/cEnviaCorreo.dll">
+      <publishTime>02/24/2021 12:06:44</publishTime>
+    </File>
+    <File Include="bin/cEnviaCorreo.pdb">
+      <publishTime>02/24/2021 12:06:44</publishTime>
+    </File>
+    <File Include="bin/cTransaccion.dll">
+      <publishTime>03/09/2021 08:45:47</publishTime>
+    </File>
+    <File Include="bin/cTransaccion.pdb">
+      <publishTime>03/09/2021 08:45:47</publishTime>
+    </File>
+    <File Include="bin/cTransacciones.dll">
+      <publishTime>03/03/2021 11:45:01</publishTime>
+    </File>
+    <File Include="bin/cTransacciones.pdb">
+      <publishTime>03/03/2021 11:45:01</publishTime>
+    </File>
+    <File Include="bin/wcfUsuarios.dll">
+      <publishTime>03/09/2021 08:46:12</publishTime>
+    </File>
+    <File Include="bin/wcfUsuarios.pdb">
+      <publishTime>03/09/2021 08:46:12</publishTime>
+    </File>
+    <File Include="bin/wcfUsuarios.xml">
+      <publishTime>03/09/2021 08:46:12</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>03/09/2021 08:46:13</publishTime>
+    </File>
+    <File Include="wcfUsuarios.svc">
+      <publishTime>02/26/2021 10:38:53</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>02/26/2021 10:52:38</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
